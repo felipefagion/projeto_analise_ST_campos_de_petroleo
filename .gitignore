@@ -1,0 +1,15 @@
+# Base de dados completa (339 MB) — baixar via link no README
+tabela_producao_oleo.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Ambientes virtuais
+.venv/
+env/
+venv/
+
+# macOS
+.DS_Store
