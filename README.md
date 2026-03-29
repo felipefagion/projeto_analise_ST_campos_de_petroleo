@@ -124,9 +124,3 @@ Cada integrante atuou em áreas específicas:
 - Uso de modelos avançados (LSTM, Prophet)  
 - Integração com dados em tempo real  
 - Dashboard interativo (Power BI / Streamlit)  
-
----
-
-## ⭐ Observação
-
-Projeto acadêmico com fins educacionais.
