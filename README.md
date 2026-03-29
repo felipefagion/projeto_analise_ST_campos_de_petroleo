@@ -127,12 +127,6 @@ Cada integrante atuou em áreas específicas:
 
 ---
 
-## 📌 Conclusão
-
-Este projeto demonstra como técnicas de ciência de dados podem ser aplicadas ao setor energético para apoiar decisões estratégicas, combinando análise estatística e modelagem preditiva.
-
----
-
 ## ⭐ Observação
 
 Projeto acadêmico com fins educacionais.
